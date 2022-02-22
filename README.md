@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![dsanchez's 42 stats](https://badge42.herokuapp.com/api/stats/mclerico)](https://github.com/JaeSeoKim/badge42)
 
-
+You can contact me via:
  <a href="www.linkedin.com/in/maria-victoria-clerico-da-costa-48b248198">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
