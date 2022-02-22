@@ -1,4 +1,4 @@
-### Hi! Im Maria Victoria a.k.a @soykilian
+### Hi! I'm Maria Victoria a.k.a @soykilian
 
 I'm a Telco Engineering Senior student at Universidad Politécnica de Madrid and also a [42 Madrid](https://www.42madrid.com/) learner.
 <!--
