@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # GitHub most used lenguages
-[![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soykilian&theme=onedark&layout=compact)](https://github.com/soykilian?tab=repositories)
+[![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soykilian&theme=onedark&layout=compact&hide=Verilog)](https://github.com/soykilian?tab=repositories)
 
 # 42 Madrid Status
 
