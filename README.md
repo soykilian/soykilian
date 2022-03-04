@@ -1,6 +1,8 @@
 ### Hi! I'm Maria Victoria a.k.a @soykilian
 
 I'm a Telco Engineering Senior student at Universidad Politécnica de Madrid and also a [42 Madrid](https://www.42madrid.com/) learner.
+- 🔭 I’m currently working on retraining Deep Learning models and some hardware developing projects.
+- 🌱 I’m currently learning on Natural Languaje Processing, Machine Learning, microcontroller programming, Real'time design software, and many others :)
 <!--
 **soykilian/soykilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # GitHub most used lenguages
+[![soykilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=soykilian)](https://github.com/soykilian/github-readme-stats)
 [![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soykilian&theme=onedark&layout=compact&hide=Verilog)](https://github.com/soykilian?tab=repositories)
 
 # 42 Madrid Status
