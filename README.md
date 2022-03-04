@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 # GitHub most used lenguages
 
-[![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soykilian&theme=onedark&layout=compact&hide=VHDL)](https://github.com/soykilian?tab=repositories)
+[![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soykilian&theme=onedark&layout=compact&hide=VHDL&hide=Makefile)](https://github.com/soykilian?tab=repositories)
 
 # 42 Madrid Status
 
