@@ -2,7 +2,7 @@
 
 I'm a Telco Engineering Senior student at Universidad Politécnica de Madrid and also a [42 Madrid](https://www.42madrid.com/) learner.
 - 🔭 I’m currently working on retraining Deep Learning models and some hardware developing projects.
-- 🌱 I’m currently learning on Natural Languaje Processing, Machine Learning, microcontroller programming, Real'time design software, and many others :)
+- 🌱 I’m currently learning on Natural Languaje Processing, Machine Learning and Signal Processing:)
 <!--
 **soykilian/soykilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
