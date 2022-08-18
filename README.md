@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # 42 Madrid Status
 
-[![mclerico's 42 stats](https://badge42.herokuapp.com/api/stats/mclerico)](https://github.com/JaeSeoKim/badge42)
+[![mclerico's 42 stats](https://badge42.vercel.app/api/v2/cl6z6uzvp00690gmmdxxmlhcv/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
 You can contact me via:
  <a href="https://linkedin.com/in/maria-victoria-clerico-da-costa">
