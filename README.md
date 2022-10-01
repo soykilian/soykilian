@@ -1,6 +1,6 @@
 ### Hi! I'm Maria Victoria a.k.a @soykilian
 
-I'm a Telco Engineeri and also a [42 Madrid](https://www.42madrid.com/) learner.
+I'm a Telco Engineer and also a [42 Madrid](https://www.42madrid.com/) learner.
 - 🔭 I’m currently working on retraining Deep Learning models and some hardware developing projects.
 - 🌱 I’m currently learning on Natural Languaje Processing, Machine Learning and Signal Processing:)
 <!--
