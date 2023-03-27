@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soykilian&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.comsoykilian?tab=repositories)
 
 # GitHub most used lenguages
-[![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosanchezstrange&theme=onedark&layout=compact)](https://github.comsoykilian?tab=repositories)
+[![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?usernamesoykilian&theme=onedark&layout=compact)](https://github.comsoykilian?tab=repositories)
 
 
 # 42 Madrid Status
