@@ -2,7 +2,7 @@
 
 I'm a Telco Engineer, a MS student and a [42 Madrid](https://www.42madrid.com/) learner.
 - 🔭 I’m currently working on retraining Deep Learning models and some hardware developing projects.
-- 🌱 I’m currently learning on Natural Languaje Processing, Machine Learning and Signal Processing:)
+- 🌱 I’m currently learning on Neural Networks, Machine Learning and Signal Processing:)
 <!--
 **soykilian/soykilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
