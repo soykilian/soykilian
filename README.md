@@ -1,8 +1,8 @@
-### Hi! I'm Maria Victoria a.k.a @soykilian
+### Hi! I'm Maria Victoria
 
 I'm a Telco Engineer, a MS student and a [42 Madrid](https://www.42madrid.com/) learner.
-- 🔭 I’m currently working on retraining Deep Learning models and some hardware developing projects.
-- 🌱 I’m currently learning Neural Networks, Machine Learning and Signal Processing:)
+- 🔭 I’m currently working on Neuromorphic Computing and Deep Learning projects
+- 🌱 I'm also interested in digital signal processing, machine learning and digital electronic design 
 <!--
 **soykilian/soykilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
