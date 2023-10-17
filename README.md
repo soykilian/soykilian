@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soykilian&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.comsoykilian?tab=repositories)
 
 # GitHub most used languages
-[![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soykilian&theme=onedark&layout=compact&hide=HTML,Roff,TeX,PostScript&exclude_repo=RF-signal-classification)](https://github.comsoykilian?tab=repositories)
+[![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soykilian&theme=onedark&layout=compact&hide=HTML,Roff,TeX,PostScript,Objective-C)](https://github.comsoykilian?tab=repositories)
 
 You can contact me via:
  <a href="https://linkedin.com/in/maria-victoria-clerico-da-costa">
