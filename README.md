@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 # GitHub most used languages
 [![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soykilian&theme=onedark&layout=compact&hide=HTML,Roff,TeX,PostScript&exclude_repo=RF-signal-classification)](https://github.comsoykilian?tab=repositories)
 
-
-# 42 Madrid Status
-
-[![mclerico's 42 stats](https://badge42.vercel.app/api/v2/cl6z6uzvp00690gmmdxxmlhcv/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
-
 You can contact me via:
  <a href="https://linkedin.com/in/maria-victoria-clerico-da-costa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
